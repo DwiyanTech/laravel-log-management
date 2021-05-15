@@ -7,6 +7,8 @@
 ## Configure 
 - Run In Your Server
 - Change Pin Value In .env LOG_VIEWER_PASSWORD 
+- Set Your Log Path you Wanna To Show In Log Viewer
+- And Open log-viewer
 
 Note*: If you Want to Run With ```php artisan serve``` Change index.php to server.php
 
